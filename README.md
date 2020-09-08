@@ -12,7 +12,7 @@ It's written in C# and powered by .NET Standard.
 The idea came from me watching a guy make a graphics card out of breadboards.
 Not having te resources to do that myself I decided to make a graphics engine using a concept
 he utlised in his project (writing pixels from left to right top to bottom). At first it started simple
-but I kep adding stuff and it kept "growing".
+but I kept adding stuff and it kept "growing".
 
 This is the result.
 
