@@ -74,7 +74,7 @@ Methods:
     
     - ClearScreen()                             Clears all the pixels from the screen.
     
-    - LoadImage(string path, *Vector2 position) Loads an image to render.
+    - LoadImage(string path, Vector2 position) Loads an image to render.
     
     - Draw(*bool overwrite)                     Draws the screen / window, if overwrite is true, it will overwrite the previous one.
   
