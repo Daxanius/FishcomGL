@@ -81,7 +81,7 @@ namespace Comfish
 
         public Pixel GetPixel(Vector2 position)
         {
-            Pixel pixel = null;
+            Pixel pixel = new Pixel(position, _character, defaultBackgroundColor, defaultForeGroundColor);
             int pos = GetPixelArrayPosition(position);
 
             if (pos != -1)
