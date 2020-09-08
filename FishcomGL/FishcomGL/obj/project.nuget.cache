@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2IE9ASX+qWzRbi2WioRESEldyGqlTL2y0MycvoYgOPo65Oi5JmTIXlxlCqv2TubBAgH3UEF0lWbpXrffY/mYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\balde\\source\\repos\\FishcomGL\\FishcomGL\\FishcomGL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\balde\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
