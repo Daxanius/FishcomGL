@@ -4,9 +4,9 @@ using System.Text;
 
 namespace FishcomGL
 {
-    public class ColorHandler
+    public static class ColorHandler
     {
-        public ConsoleColor ClosestConsoleColor(byte r, byte g, byte b)
+        public static ConsoleColor ClosestConsoleColor(byte r, byte g, byte b)
         {
             ConsoleColor ret = 0;
             double rr = r, gg = g, bb = b, delta = double.MaxValue;
@@ -27,7 +27,7 @@ namespace FishcomGL
             return ret;
         }
 
-        public void SetConsoleColor(string backGroundColor, string foreGroundColor)
+        public static void SetConsoleColor(string backGroundColor, string foreGroundColor)
         {
             switch (backGroundColor)
             {
