@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Daxanius</Authors>
+    <Description>Just an example of what you can do with ComfishGL.</Description>
+    <PackageIcon>red_ball.png</PackageIcon>
+    <ApplicationIcon>red_ball.ico</ApplicationIcon>
+    <StartupObject>ConsolePong.Program</StartupObject>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="FishcomGL">
+      <HintPath>..\..\FishcomGL\FishcomGL\bin\Debug\netstandard2.0\FishcomGL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Pictures\red_ball.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
