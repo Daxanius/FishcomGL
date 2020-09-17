@@ -1,8 +1,5 @@
-<p align="center">
-   <img src="logo.png" width="400" alt="FishcomGL logo">
-</p>
+<h1>FishcomGL <img src="icon.png" alt="FishcomGL logo"></h1>
 
-# FishcomGL
 A C# graphics library that can render images, animations and games on any windows console such as Command prompt or PowerShell.
 
 * [Intro](#intro)
