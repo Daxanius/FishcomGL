@@ -17,6 +17,8 @@ but I kept adding stuff and it kept "growing".
 
 This is the result.
 
+<img src="Examples/ExampleImage.png" alt="Example image" width=300>
+
 ## Contribute or support
 If you want to help improving Fishcom please consider forking the repository, making your changes, and proposing a Pull Request.
 
