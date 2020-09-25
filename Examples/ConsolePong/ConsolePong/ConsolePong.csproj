@@ -5,9 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <Authors>Daxanius</Authors>
     <Description>Just an example of what you can do with ComfishGL.</Description>
-    <PackageIcon>red_ball.png</PackageIcon>
+    <PackageIcon></PackageIcon>
     <ApplicationIcon>red_ball.ico</ApplicationIcon>
     <StartupObject>ConsolePong.Program</StartupObject>
+    <PackageProjectUrl>https://github.com/Daxanius/FishcomGL</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -18,13 +19,6 @@
     <Reference Include="FishcomGL">
       <HintPath>..\..\FishcomGL\FishcomGL\bin\Debug\netstandard2.0\FishcomGL.dll</HintPath>
     </Reference>
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="..\..\..\..\Pictures\red_ball.png">
-      <Pack>True</Pack>
-      <PackagePath></PackagePath>
-    </None>
   </ItemGroup>
 
 </Project>
