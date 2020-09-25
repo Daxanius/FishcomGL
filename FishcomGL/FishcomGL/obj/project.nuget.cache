@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AoYfZf+AjN6jdCBGMw/XAtySOwbVFyHCEBNCwgjusyXJB5aoPcoCcpXGKVNbLWcHCxxNPrI4GfYX7UVkUlD46Q==",
+  "dgSpecHash": "rXecgoom5qk3fJjtYgS8DvH5tz2NMc0PlNBUxpeaLVcLfvr0mIvhUcsxCl8o11VK7wPXlbfNI6toB5r6lYddOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\balde\\source\\repos\\FishcomGL\\FishcomGL\\FishcomGL.csproj",
+  "projectFilePath": "C:\\Users\\balde\\Downloads\\FishcomGL-master\\FishcomGL-master\\FishcomGL\\FishcomGL\\FishcomGL.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -5,7 +5,7 @@
     <version>0.1.0</version>
     <authors>Daxanius</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <icon>fish.png</icon>
+    <projectUrl>https://github.com/Daxanius/FishcomGL</projectUrl>
     <description>Fishcom is a tool that can render graphics on any console. It's written in C# and powered by .NET Standard.
 
 The idea came from me watching a guy make a graphics card out of breadboards. Not having te resources to do that myself I decided to make a graphics engine using a concept he utlised in his project (writing pixels from left to right top to bottom). At first it started simple but I kept adding stuff and it kept "growing".
@@ -18,7 +18,6 @@ This is the result.</description>
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\balde\source\repos\FishcomGL\FishcomGL\bin\Debug\netstandard2.0\FishcomGL.dll" target="lib\netstandard2.0\FishcomGL.dll" />
-    <file src="C:\Users\balde\Pictures\fish.png" target="fish.png" />
+    <file src="C:\Users\balde\Downloads\FishcomGL-master\FishcomGL-master\FishcomGL\FishcomGL\bin\Debug\netstandard2.0\FishcomGL.dll" target="lib\netstandard2.0\FishcomGL.dll" />
   </files>
 </package>

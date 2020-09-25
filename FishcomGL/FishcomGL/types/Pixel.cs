@@ -4,6 +4,7 @@ using System.Text;
 
 namespace FishcomGL
 {
+    // A pixel class made to hold all the data a pixel needs.
     public class Pixel
     {
         public Vector2 position;

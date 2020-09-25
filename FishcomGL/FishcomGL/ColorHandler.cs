@@ -4,8 +4,10 @@ using System.Text;
 
 namespace FishcomGL
 {
+    // This class was made to deal with colors.
     public static class ColorHandler
     {
+        // Returns the closest console color of an RGB value
         public static ConsoleColor ClosestConsoleColor(byte r, byte g, byte b)
         {
             ConsoleColor ret = 0;
@@ -27,6 +29,7 @@ namespace FishcomGL
             return ret;
         }
 
+        // Converts a string to a consolecolor
         public static void SetConsoleColor(string backGroundColor, string foreGroundColor)
         {
             switch (backGroundColor)

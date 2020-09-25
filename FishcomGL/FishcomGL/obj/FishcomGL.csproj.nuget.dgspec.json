@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\balde\\source\\repos\\FishcomGL\\FishcomGL\\FishcomGL.csproj": {}
+    "C:\\Users\\balde\\Downloads\\FishcomGL-master\\FishcomGL-master\\FishcomGL\\FishcomGL\\FishcomGL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\balde\\source\\repos\\FishcomGL\\FishcomGL\\FishcomGL.csproj": {
+    "C:\\Users\\balde\\Downloads\\FishcomGL-master\\FishcomGL-master\\FishcomGL\\FishcomGL\\FishcomGL.csproj": {
       "version": "0.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balde\\source\\repos\\FishcomGL\\FishcomGL\\FishcomGL.csproj",
+        "projectUniqueName": "C:\\Users\\balde\\Downloads\\FishcomGL-master\\FishcomGL-master\\FishcomGL\\FishcomGL\\FishcomGL.csproj",
         "projectName": "FishcomGL",
-        "projectPath": "C:\\Users\\balde\\source\\repos\\FishcomGL\\FishcomGL\\FishcomGL.csproj",
+        "projectPath": "C:\\Users\\balde\\Downloads\\FishcomGL-master\\FishcomGL-master\\FishcomGL\\FishcomGL\\FishcomGL.csproj",
         "packagesPath": "C:\\Users\\balde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balde\\source\\repos\\FishcomGL\\FishcomGL\\obj\\",
+        "outputPath": "C:\\Users\\balde\\Downloads\\FishcomGL-master\\FishcomGL-master\\FishcomGL\\FishcomGL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
