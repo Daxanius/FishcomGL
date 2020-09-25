@@ -9,6 +9,7 @@ C:\Users\balde\source\repos\FishcomGL\FishcomGL\obj\Debug\netstandard2.0\Fishcom
 C:\Users\balde\Downloads\FishcomGL-master\FishcomGL-master\FishcomGL\FishcomGL\bin\Debug\netstandard2.0\FishcomGL.deps.json
 C:\Users\balde\Downloads\FishcomGL-master\FishcomGL-master\FishcomGL\FishcomGL\bin\Debug\netstandard2.0\FishcomGL.dll
 C:\Users\balde\Downloads\FishcomGL-master\FishcomGL-master\FishcomGL\FishcomGL\bin\Debug\netstandard2.0\FishcomGL.pdb
+C:\Users\balde\Downloads\FishcomGL-master\FishcomGL-master\FishcomGL\FishcomGL\obj\Debug\netstandard2.0\FishcomGL.csprojAssemblyReference.cache
 C:\Users\balde\Downloads\FishcomGL-master\FishcomGL-master\FishcomGL\FishcomGL\obj\Debug\netstandard2.0\FishcomGL.AssemblyInfoInputs.cache
 C:\Users\balde\Downloads\FishcomGL-master\FishcomGL-master\FishcomGL\FishcomGL\obj\Debug\netstandard2.0\FishcomGL.AssemblyInfo.cs
 C:\Users\balde\Downloads\FishcomGL-master\FishcomGL-master\FishcomGL\FishcomGL\obj\Debug\netstandard2.0\FishcomGL.csproj.CoreCompileInputs.cache
