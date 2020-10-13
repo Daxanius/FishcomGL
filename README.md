@@ -38,7 +38,7 @@ If you need any help you can contact me trough discord (Daxanius#1000).
 
 ## Usage
 
-ComfishGL is a C# class library.
+FishcomGL is a C# class library.
 
 Here are the methods, data types and variables you can use.
 
